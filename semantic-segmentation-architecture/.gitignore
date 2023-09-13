@@ -1,0 +1,8 @@
+/segmentation/scrach.py
+/runs/2*
+/runs/images/*
+/runs/models/*
+/docs
+/transfer.ipynb
+/test_fcn.ipynb
+/setup*
