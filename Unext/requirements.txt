@@ -1,0 +1,12 @@
+addict
+dataclasses
+mmcv-full
+numpy
+perceptual
+pillow
+scikit-image
+scipy
+tifffile
+timm
+typing-extensions
+yapf
